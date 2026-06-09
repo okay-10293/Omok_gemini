@@ -1,1 +1,1 @@
-# Omok_gemini
+# omok1
